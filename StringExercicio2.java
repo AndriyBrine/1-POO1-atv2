@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class StringExercicio2
 {
     public static int f_contagem (String palavra){
         int nvogais = 0;
