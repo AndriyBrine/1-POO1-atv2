@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class StringExercicio4
+public class Tarefa4String
 {
     
     public static void f_LosangoALF (int tamanho){
